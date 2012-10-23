@@ -1,0 +1,21 @@
+para executar(linha de comando):
+	java -jar JTimeCounter.jar arquivo_alvo.txt
+
+arquivo exemplo = arq1.txt
+
+
+como funciona o arquivo:
+
+horario inicial:
+# 1400 inicial
+
+depois de algum tempo, marque o tempo e o que você fez desde as 14 horas:
+- 1420 implementar tela de cadastro
+- 1450 pausa
+- 1600 implementar tela de cadastro
+- 1700 pausa%porcentagem encerra a linha
+
+
+
+
+P.S. as tarefas idênticas são agrupadas.

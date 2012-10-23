@@ -1,0 +1,27 @@
+# 0800 - inicio
+- 0930 reunião
+- 0945 ---
+- 0950 email
+- 1005 problema enum departamento, lista deps na tela
+- 1010 ---
+- 1036 problema enum departamento, lista deps na tela
+- 1046 problema enum departamento, lista deps na tela
+- 1050 verificando exclusão em pessoaForm, ok
+- 1056 verificação das atividades pendentes
+- 1100 ---
+- 1120 visualizar, botão de apagar campo autocomplete
+- 1141 visualizar, botão de apagar campo autocomplete - tentando sobrescrever metodo setreadonly
+- 1145 anotações
+- 1159 visualizar, botão de apagar campo autocomplete - tentando sobrescrever metodo setreadonly
+# 1400 - inicio
+- 1408 ---
+- 1425 lista de atividades, svn
+- 1458 visualizar, botão de apagar campo autocomplete deve ficar hidden, ok
+- 1504 lista de atividades
+- 1520 login e senha, nome da aba
+- 1553 departamento - ao invés de enum, usar somatória
+- 1600 departamento - ao invés de enum, usar somatória
+- 1612 ---
+- 1639 departamento - somatória tipo expl. rafa
+- 1752 departamento - somatória
+
